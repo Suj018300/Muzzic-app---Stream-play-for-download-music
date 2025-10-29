@@ -92,7 +92,7 @@ muzzic/
 
 ## 👨‍💻 Author  
 
-Developed with ❤️ by **G Design**  
+Developed with ❤️ by **Sujal Bendre**  
 > A project built to explore and master Flutter + FastAPI integration for modern, full-stack music platforms.  
 
 ---
