@@ -10,8 +10,8 @@ It consists of two apps — a **User App** 🎧 for listeners and a **Admin App*
 Add your screenshots and demo video below 👇  
 
 📸 **Screenshots:**  
-![User App Screenshot](https://drive.google.com/file/d/1BUYqP7dyEtjEZ7Y-XjWCnJBpOx_rLyUi/view?usp=drive_link)  
-![Admin App Screenshot](path_to_admin_app_screenshot)  
+![User App Screenshot](https://drive.google.com/file/d/1BUYqP7dyEtjEZ7Y-XjWCnJBpOx_rLyUi/view?usp=drive_link)
+![Admin App Screenshot](https://your-screenshot-link2.png)
 
 🎬 **Demo Video:**  
 [Watch Demo](link_to_demo_video)
