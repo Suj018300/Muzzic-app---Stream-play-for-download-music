@@ -56,6 +56,7 @@ The platform provides a fast, modern, and intuitive experience for both music lo
 
 ## 🏗️ Project Structure  
 
+'''bash
 muzzic/
 │
 ├── user_app/ # Flutter app for users
@@ -66,6 +67,7 @@ muzzic/
 │ ├── database/
 │ └── main.py
 └── README.md
+'''
 
 ---
 
