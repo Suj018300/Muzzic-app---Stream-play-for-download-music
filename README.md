@@ -10,11 +10,12 @@ It consists of two apps — a **User App** 🎧 for listeners and a **Admin App*
 Add your screenshots and demo video below 👇  
 
 📸 **Screenshots:**  
-![User App Screenshot](https://drive.google.com/uc?export=view&id=1BUYqP7dyEtjEZ7Y-XjWCnJBpOx_rLyUi)
-![Admin App Screenshot](https://drive.google.com/uc?export=view&id=YOUR_ADMIN_APP_ID)
+![User App Screenshot](assets/ss/shot 72.png)  
+![Admin App Screenshot](assets/ss/shot 84.png)
+![Admin App Screenshot](assets/ss/shot 85.png)
 
 🎬 **Demo Video:**  
-[Watch Demo](link_to_demo_video)
+![Watch Demo](assets/demo/clideo_editor_cdfb686f7ec14ab89e8198d53fe0e690.mp4)
 
 ---
 
