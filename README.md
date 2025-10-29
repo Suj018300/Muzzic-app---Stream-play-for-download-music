@@ -11,8 +11,8 @@ Add your screenshots and demo video below 👇
 
 📸 **Screenshots:**  
 ![User App Screenshot](assets/ss/shot_72.png)  
-![Admin App Screenshot](assets/ss/shot 84.png)
-![Admin App Screenshot](assets/ss/shot 85.png)
+![Admin App Screenshot](assets/ss/shot_84.png)
+![Admin App Screenshot](assets/ss/shot_85.png)
 
 🎬 **Demo Video:**  
 ![Watch Demo](assets/demo/clideo_editor_cdfb686f7ec14ab89e8198d53fe0e690.mp4)
