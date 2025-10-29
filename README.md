@@ -14,7 +14,7 @@ It consists of two apps — a **User App** 🎧 for listeners and a **Admin App*
 ![Admin App Screenshot](assets/ss/shot_84.png)
 ---
 🎬 **Demo Video:**  
-![Watch Demo](https://drive.google.com/file/d/1U0rtMBbwy_cr29zObCfvCqMN0-cwYcE2/view?usp=drive_link)
+![Watch Demo](https://drive.google.com/file/d/1U0rtMBbwy_cr29zObCfvCqMN0-cwYcE2/view?usp=sharing)
 
 ---
 
