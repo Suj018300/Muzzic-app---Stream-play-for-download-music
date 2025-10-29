@@ -1,0 +1,22 @@
+# Environment and secrets
+.env
+*.env
+
+# Python cache & build files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Virtual environment
+venv/
+env/
+
+# IDE / Editor files
+.vscode/
+.idea/
+
+# Logs & temp files
+*.log
+tmp/
