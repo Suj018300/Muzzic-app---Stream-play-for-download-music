@@ -5,7 +5,6 @@ from sqlalchemy.orm import sessionmaker
 
 load_dotenv()
 DATABASE_URL=os.getenv("DATABASE_URL_ENV") 
-# 'postgresql+psycopg2://postgres:sujal@localhost:5432/musicapp'
 
 engine = create_engine(DATABASE_URL)
 SessionLocal = sessionmaker(autocommit = False, autoflush=False, bind=engine)
